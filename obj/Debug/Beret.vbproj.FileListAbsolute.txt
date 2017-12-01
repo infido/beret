@@ -1,0 +1,59 @@
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.exe
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.pdb
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.xml
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\FirebirdSql.Data.Firebird.dll
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Resources.resources
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Start.resources
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.exe
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.xml
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.pdb
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.exe.manifest
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.application
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.exe.manifest
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.application
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Seting.resources
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.KH.resources
+C:\Documents and Settings\Dziwoki\Moje dokumenty\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.PRAC.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.exe
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.xml
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.pdb
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.exe.manifest
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.application
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.exe
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.pdb
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.xml
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\FirebirdSql.Data.Firebird.dll
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.KH.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Resources.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.PRAC.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Seting.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Start.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.vbproj.GenerateResource.Cache
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.exe.manifest
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.application
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\obj\Debug\Beret.Stany.resources
+C:\Users\JacekD\Documents\Visual Studio 2008\Projects\Beret\Beret\bin\Debug\Beret.exe.config
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\Beret.exe.config
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.exe
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.xml
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.pdb
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\Beret.exe.manifest
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\Beret.application
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\Beret.exe
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\Beret.pdb
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\Beret.xml
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.KH.resources
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.Resources.resources
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.PRAC.resources
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.Seting.resources
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.Stany.resources
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.Start.resources
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.exe.manifest
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\obj\Debug\Beret.application
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\user\Moje dokumenty\Visual Studio 2008\Projects\Beret\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb

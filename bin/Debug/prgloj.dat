@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ustawienia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <wartosc1>1000</wartosc1>
+  <wartosc2>3002</wartosc2>
+  <wartosc3>5000</wartosc3>
+  <wsp1>0,03</wsp1>
+  <wsp2>0,05</wsp2>
+  <wsp3>0,08</wsp3>
+  <ser>localhost</ser>
+  <baz>C:\dane\mm\Data\F00001.fdb</baz>
+</Ustawienia>
